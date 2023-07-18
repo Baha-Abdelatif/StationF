@@ -12,9 +12,11 @@
 
 ## https://github.com/charline-studi/2209-html-css/tree/main/projet-stationF
 
-## Nous utiliseront Trello pour gerer l'avancée du projet, et nous effectueront des cycles
+## Nous utiliseront Trello pour gerer l'avancée du projet,
 
-## de développement courts en nous basant sur la méthode AGILE :
+## Et nous effectueront des cycles de développement courts
+
+## en nous basant sur la méthode AGILE :
 
 # https://trello.com/b/8JwBcB20/projet-collectif-station-f-board-de-travail
 
