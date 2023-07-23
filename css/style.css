@@ -1,0 +1,32 @@
+/* RESET DEFAULTS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* NAVBAR */
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+}
+.nav-bar .nav-list{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+.nav-bar .nav-link {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+.nav-bar .nav-button {
+    background-color: #000;
+    padding: 10px;
+    border-radius: 25px;
+    margin-right: 10px;
+}
+.nav-button .nav-link {
+    color: white;
+}
